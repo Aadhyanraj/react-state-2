@@ -1,0 +1,15 @@
+.ticket{
+border: 5px solid orange;
+border-radius: 10px;
+}
+.won{
+background-color: rgb(0, 94, 255);
+color: rosybrown
+}
+
+.btn{
+background-color: rgb(0, 94, 255);
+color: red;
+border-radius: 10px;
+
+}
